@@ -1,3 +1,8 @@
+html, body
+{
+    height: 100%;
+}
+
 .title {    
   background-color: blue;
   text-align: center;
@@ -5,4 +10,15 @@
 
 .the-excuse {
     text-align: center;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/274/594/non_2x/vector-omg-the-woman-in-shock-pop-art-retro-style.jpg');
+    background: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    
+}
+.excuse-text {
+    background-color: #f3e139;
+    color: #a10127;
+    border: 2px #a10127 solid;
+    max-width: 100%;
 }
